@@ -18,7 +18,7 @@
               border: 1px solid #bfbfbf;
           }
           input[type=checkbox] {
-              width: inherit;
+              width: 100px;
               margin: 6px 3px 6px 0;
               vertical-align: middle;
           }
