@@ -277,7 +277,7 @@
                 "sap/m/StandardListItem",
                 "sap/m/Select",
                 "sap/ui/core/Item",
-                "sap/suite/ui/commons/networkgraph/layout/SwimLaneChainLayout"
+                "sap/suite/ui/commons/networkgraph/layout/LayeredLayout"
             ], function(jQuery, Controller, JSONModel, MessageToast, coreLibrary, Core, Filter, mobileLibrary, MessageBox, DateRange, DateFormat, BindingMode, CalendarLegendItem, DateTypeRange, unifiedLibrary, Popover, ListBase, StandardListItem, Select, Item, SwimLaneChainLayout) {
                 "use strict";
 
