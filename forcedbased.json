@@ -1,5 +1,5 @@
 {
-  "id": "DM_Networkgraph",
+  "id": "DMnetworkgraph",
   "version": "0.0.2",
   "name": "DMnetworkgraph",
   "description": "DMnetworkgraph",
@@ -12,14 +12,14 @@
   "webcomponents": [
     {
       "kind": "main",
-      "tag": "DMnetworkgraphforcebased",
+      "tag": "com-fd-djaja-sap-sac-networkgraphforcebased",
       "url": "https://dianaelenam.github.io/DM_Networkgraph.github.io/aps_forcebased.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
-      "tag": "DMnetworkgraphforcebased-aps",
+      "tag": "com-fd-djaja-sap-sac-networkgraphforcebased-aps",
       "url": "https://dianaelenam.github.io/DM_Networkgraph.github.io/forcebased.js",
       "integrity": "",
       "ignoreIntegrity": true
